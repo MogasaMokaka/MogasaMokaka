@@ -1,4 +1,23 @@
-# Hi there 👋, I am Mogasa Mokaka.
+# [Hi there 👋, I am Mogasa Mokaka]([https://www.example.com/your-website-or-profile-link](https://github.com/MogasaMokaka))
+
+I am Mogasa Mokaka, a web developer and technical blogger passionate about learning new things as well as teaching and helping others.
+
+I create tech content about Web Development, Freelancing, and JavaScript. You can get this content on my [Blog](link_to_your_blog) and follow me on [Twitter](https://twitter.com/MogasaMokaka) for more cool stuff.
+
+## ToolBox 🧰
+
+Here are some of the technologies and tools I work with:
+
+- ![JavaScript Logo](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
+- ![CSS3 Logo](https://example.com/css3_logo_url)
+- ![HTML5 Logo](https://example.com/html5_logo_url)
+- ![WordPress Logo](https://example.com/wordpress_logo_url)
+- ![WooCommerce Logo](https://example.com/woocommerce_logo_url)
+- ![Bootstrap Logo](https://example.com/bootstrap_logo_url)
+- ![Figma Logo](https://example.com/figma_logo_url)
+- ![Python Logo](https://example.com/python_logo_url)
+- ![jQuery Logo](https://example.com/jquery_logo_url)
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/MogasaMokaka?style=social)](https://twitter.com/MogasaMokaka)
 
 A web developer learning new things as well as teaching and helping others.
