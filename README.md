@@ -1,5 +1,5 @@
 # Hi there 👋, I am Mogasa Mokaka.
-[![Twitter Follow](https://img.shields.io/twitter/follow/your_twitter_handle?style=social)](https://twitter.com/MogasaMokaka)
+[![Twitter Follow](https://img.shields.io/twitter/follow/MogasaMokaka?style=social)](https://twitter.com/MogasaMokaka)
 
 A web developer learning new things as well as teaching and helping others.
 
@@ -9,7 +9,7 @@ I create tech content about Web Development, Freelancing, and JavaScript. You ca
 
 Here are some of the technologies and tools I work with:
 
-- ![JavaScript Logo](https://www.example.com/link_to_your_javascript_logo)
+- ![JavaScript Logo]([https://www.example.com/link_to_your_javascript_logo](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg))
 - ![CSS3 Logo](https://www.example.com/link_to_your_css3_logo)
 - ![HTML5 Logo](https://www.example.com/link_to_your_html5_logo)
 - ![WordPress Logo](https://www.example.com/link_to_your_wordpress_logo)
