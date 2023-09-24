@@ -1,9 +1,15 @@
-# Hi there 👋, I am Mogasa Mokaka
+# Hi there 👋, I am Mogasa Mokaka.
 
 ---
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/MogasaMokaka?style=social)](https://twitter.com/MogasaMokaka)
+<br>
+[![Telegram Follow](https://img.shields.io/badge/Telegram-MogasaMokaka-blue?style=social&logo=telegram)](https://t.me/MogasaMokaka)
+<br>
+[![Snapchat Follow](https://img.shields.io/badge/Snapchat-mogasamokaka-yellow?style=social&logo=snapchat)](https://www.snapchat.com/add/mogasamokaka)
+
+
 
 I'm just a passionate web developer, dedicated to creating innovative and user-friendly web solutions. With a strong penchant for learning, I constantly seek new challenges and opportunities to expand my knowledge and skills.
 
