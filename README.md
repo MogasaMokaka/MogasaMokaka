@@ -49,9 +49,9 @@ I work with the following databases:
 
 ## Connect with Me
 
-- 📧 Email: mokakamogasa4@gmail.com
-- 🐦 [Twitter](https://twitter.com/MogasaMokaka)
-- 💬 Telegram: [t.me/MogasaMokaka](https://t.me/MogasaMokaka)
+- [![Twitter Follow with X Icon](https://img.shields.io/twitter/follow/MogasaMokaka?style=social)](https://twitter.com/MogasaMokaka)
+- [![Telegram](https://img.shields.io/badge/Telegram-MogasaMokaka-blue?style=social&logo=telegram)](https://t.me/MogasaMokaka)
+
 
 Thanks for visiting my GitHub profile! 😊
 
