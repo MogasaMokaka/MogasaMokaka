@@ -10,7 +10,7 @@ I'm a passionate web developer with a love for creating innovative and user-frie
   - Primary Education: Heritage English Medium School (2010-2016)
   - Secondary Education: Heritage English Secondary School (2017-2020)
   - Certificate in Computer Science: University of Dar es Salaam, College of Information Communication and Technology (2021-2022)
-  - Diploma in Computer Science: University of Dar es Salaam, College of Information Communication and Technology (2022 - Present)
+  - Diploma in Computer Science: University of Dar es Salaam, College of Information Communication and Technology (2022 - 2024)
 - 🌟 Interests and Hobbies: Music, Coding, Trading, Technology, Fitness, and Exercise.
 
 ## Fun Facts
